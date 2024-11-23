@@ -10,5 +10,5 @@
 - **[https://chatgpt.dk82.com](https://chatgpt.dk82.com/)**  
   该网站完全还原了OpenAI官网的ChatGPT，支持GPT-4、4o及o1版本。用户可在国内网页版中直接在线使用，无需登录。
   
-(https://www.soruxgpt.top/282.html) 支持GPT-4、4o及o1版本.新用户注册可以免费试用。
+[https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html)支持GPT-4、4o及o1版本.新用户注册可以免费试用。
   
